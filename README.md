@@ -6,7 +6,7 @@ Diabetic retinopathy is a condition that can cause damage to blood vessels in th
  
 # Objective: 
 
-The goal of the project is to develop a new algorithm that can effectively identify the severity of diabetic retinopathy from fundus images and classify it into the following categories:
+The goal of the project is to develop a deep learning model that can effectively identify the severity of diabetic retinopathy from fundus images and classify it into the following categories:
 0 - No DR
 1 - Mild
 2 - Moderate
