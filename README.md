@@ -6,7 +6,7 @@ Diabetic retinopathy is a condition that can cause damage to blood vessels in th
  
 # Objective: 
 
-The goal of the project is to develop a deep learning model that can effectively identify the severity of diabetic retinopathy from fundus images and classify it into the following categories:
+The goal of the project is to develop a deep learning model that can effectively identify the severity of diabetic retinopathy(DR) from fundus images and classify it into the following categories:
 0 - No DR
 1 - Mild
 2 - Moderate
@@ -27,7 +27,7 @@ Modeling: Implementing deep learning models, such as, CNN, ResNet-50 and VGG-19
 
 # Results:
 
-In this project, I have implementd 3 deep learning models to help classify the images into different categories of diabetic retinopathy. The accuracy of the my model is 70%. 
+In this project, I have implemented 3 deep learning models to help classify the images into different categories of diabetic retinopathy. The accuracy of my CNN model is 70%. The accuracy of VGG-19 is 62% and of Resnet50 is 72%.
 
 Future work in this project would involve using advances pre-processing and image augmentation techniques to achieve better accuracy.
 
