@@ -26,8 +26,8 @@ Modeling: Implementing deep learning models, such as, CNN, ResNet-50 and VGG-19
 
 # Results:
 
-In this project, I have implementd 3 deep learning models to help classify the images into different categories of diabetic retinopathy. The accuracy of the my model is 72%. 
+In this project, I have implementd 3 deep learning models to help classify the images into different categories of diabetic retinopathy. The accuracy of the my model is 70%. 
 
-Future work in this projest would involve using advances pre-processing and image augmentation techniques to achieve better accuracy.
+Future work in this project would involve using advances pre-processing and image augmentation techniques to achieve better accuracy.
 
 
