@@ -22,6 +22,7 @@ APTOS and Aravind Eye Hospital, India provides the dataset, through their compet
 The dataset consists of images acquired by Aravind technicians from multiple clinics, using different cameras. Since the image acquisition conditions were not the same, there is a possibility of variation in the quality of images taken.
 
 Data wrangling: This involves cleaning and pre processing the images for analysis and building the dataset for modeling.
+
 Modeling: Implementing deep learning models, such as, CNN, ResNet-50 and VGG-19
 
 # Results:
